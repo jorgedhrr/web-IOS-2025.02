@@ -1,0 +1,7 @@
+/*css em um arquivo esterno possibilita utilizar os mesmos designs em várias folhas, não polui o html e facilita a organização*/
+
+p{
+
+    background-color: brown;
+
+}

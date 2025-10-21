@@ -1,0 +1,14 @@
+.frutas {
+    background-image: url(Frutas.jpg);
+}
+
+.carros {
+    background-image: url(Carros.jpg);
+}
+
+.listas{
+    height: 600;
+    width: 600;
+    color: white;
+    font-size: large
+}
