@@ -1,0 +1,28 @@
+body{
+    /*Faz com que o elemento tenha uma imagem de fundo*/
+    background-image: url("https://swordslice.com/cdn/shop/articles/Yuta_520x500_b65013ac-2256-4dfc-8dd7-0aa43be63a69.jpg?v=1734626633");
+
+    /*Faz com que a umagem de fundo preencha a tela*/
+background-size: cover;
+}
+
+#red{
+    color: red;
+}
+#green{
+    color: rgb(4, 163, 18);
+}
+#blue{
+    color: rgb(16, 96, 187);
+}
+
+h2 {
+font-size: 70px ;
+    color: rgb(90, 25, 255);
+}
+
+
+/*Hex ou o código hexadecimal representa uma cor especifíca. Esse código é como você receberá de seu designer as cores para construir os sites de seus clientes*/
+p {
+    color: #79ff19
+}

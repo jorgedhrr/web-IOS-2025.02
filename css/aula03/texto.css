@@ -1,0 +1,18 @@
+/* Para usar uma font da internet podemos usar o @import do site especificado. No exemplo abaixo utilizamos o site google fonts para importar e utilizar uma uma nova font-family*/
+
+@import url('https://fonts.googleapis.com/css2?family=BBH+Sans+Bogle&display=swap');
+
+/*primeiro valor é disposição horizontal, segundp é vertical, o terceiro é o desfoque e depois a cart*/
+h2 {
+    font-family: "BBH Sans Bogle", sans-serif;
+    font-size: 20px;
+    letter-spacing: 1px;
+    text-align: center;
+    text-shadow: -10px 20px 5px yellowgreen;
+}
+
+p {
+    font-family: "BBH Sans Bogle", sans-serif;
+    text-align: center;
+    width: 600px;
+}
